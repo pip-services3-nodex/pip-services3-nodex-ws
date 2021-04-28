@@ -13,6 +13,10 @@ This is a workspace for [Pip.Services V3](http://www.pipservices.org) microservi
 - **pip-services3-grpc-node** - GRPC components
 - **pip-services3-swagger-node** - Swagger UI components
 - **pip-services3-mongodb-node** - MongoDB components
+- **pip-services3-postgres-node** - PostgreSQL components
+- **pip-services3-sqlserver-node** - SQLServer components
+- **pip-services3-sqlite-node** - SQLite components
+- **pip-services3-couchbase-node** - Couchbase components
 
 ## Installation
 
