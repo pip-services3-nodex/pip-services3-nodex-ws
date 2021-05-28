@@ -14,6 +14,7 @@ git clone https://github.com/pip-services3-nodex/pip-services3-mongodb-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-postgres-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-sqlserver-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-sqlite-nodex.git
+git clone https://github.com/pip-services3-nodex/pip-services3-mysql-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-couchbase-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-kafka-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-mqtt-nodex.git
