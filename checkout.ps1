@@ -22,7 +22,7 @@ git clone https://github.com/pip-services3-nodex/pip-services3-mqtt-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-nats-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-azure-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-aws-nodex.git
-git clone https://github.com/pip-services3-nodex/pip-services3-google-nodex.git
+git clone https://github.com/pip-services3-nodex/pip-services3-gcp-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-elasticsearch-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-prometheus-nodex.git
 git clone https://github.com/pip-services3-nodex/pip-services3-datadog-nodex.git
